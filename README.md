@@ -2,7 +2,7 @@
 
 
 
-A simple blog application built with Django that allows authenticated users to create blog posts while allowing anyone to read them.
+A simple blog application built with Django that allows authenticated users to create blog posts while allowing anyone to read them .
 
 ## Features
 - User authentication with Ion OAuth
@@ -14,8 +14,7 @@ A simple blog application built with Django that allows authenticated users to c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YousafZahid1/Django.git
-cd Django
+
 ```
 
 2. Create and activate a virtual environment:
