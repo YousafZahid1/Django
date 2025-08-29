@@ -12,10 +12,7 @@ A simple blog application built with Django that allows authenticated users to c
 
 ## Setup Instructions
 
-1. Clone the repository:
-```bash
 
-```
 
 2. Create and activate a virtual environment:
 ```bash
