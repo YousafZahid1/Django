@@ -12,6 +12,11 @@ A simple blog application built with Django that allows authenticated users to c
 
 
 
+
+
+
+
+
 2. Create and activate a virtual environment:
 ```bash
 python3 -m venv venv
