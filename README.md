@@ -1,7 +1,5 @@
 # Django Blog Project
 
-
-
 A simple blog application built with Django that allows authenticated users to create blog posts while allowing anyone to read them .
 
 ## Features
