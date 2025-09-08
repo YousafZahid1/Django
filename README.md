@@ -40,7 +40,7 @@ python3 manage.py createsuperuser
 python3 manage.py runserver
 ```
 
-7. Visit http://127.0.0.1:8000/ to see the blog
+7. Visit http://127.0.0.1:8080/ to see the blog
 
 ## Project Structure
 - `blog/` - Main application directory
