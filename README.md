@@ -1,18 +1,5 @@
 # Django Blog Project
 
-A simple blog application built with Django that allows authenticated users to create blog posts while allowing anyone to read them .
-
-## Features
-- User authentication with Ion OAuth
-- Create, read blog posts
-- Admin interface for post management
-- SQLite database
-
-## Setup Instructions
-
-
-
-
 
 2. Create and activate a virtual environment:
 ```bash
